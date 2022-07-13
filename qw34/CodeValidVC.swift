@@ -15,6 +15,7 @@ class CodeValidVC: UIViewController {
     //fffjbhhn
     var d: Int = 0
     var r: String = "ff"
+    var uuu: Int = 0
     @IBOutlet weak var codeTextView: UITextView!
     
     
