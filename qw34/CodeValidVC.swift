@@ -12,6 +12,7 @@ class CodeValidVC: UIViewController {
 
     var verificationID: String!
     
+    //ff
     
     @IBOutlet weak var codeTextView: UITextView!
     
