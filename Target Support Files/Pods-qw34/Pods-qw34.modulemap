@@ -1,0 +1,6 @@
+framework module Pods_qw34 {
+  umbrella header "Pods-qw34-umbrella.h"
+
+  export *
+  module * { export * }
+}
