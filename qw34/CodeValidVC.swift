@@ -13,6 +13,7 @@ class CodeValidVC: UIViewController {
     var verificationID: String!
     
     //fffjbhhn
+    var d: Int = 0
     
     @IBOutlet weak var codeTextView: UITextView!
     
